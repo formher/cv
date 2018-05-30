@@ -1,2 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
+
+## UPDATE: below netlify URL is obsolate. Current one is cvonline.netlify.com which is not being redirected.
 https://practical-kepler-7dfbf2.netlify.com/* https://mher.harutyunyan.me/:splat 301!
